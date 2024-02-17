@@ -1,1 +1,2 @@
-web_flask
+Project about flask framework
+By Ijbar Salah Eddine
